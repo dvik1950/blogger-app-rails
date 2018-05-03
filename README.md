@@ -1,24 +1,5 @@
-# README
+A simple blog created using rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created by following this tutorial : http://tutorials.jumpstartlab.com/projects/blogger.html which was recommended in the The Odin Project curriculum (theodinproject.com)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The point of this assigment is to get an idea of how Ruby on rails works,rather than actually making the whole app yourself. The tutorial has a nice way of explaining things while continuously forcing you to stay on track by asking you to do simple tasks during the development of the app.
